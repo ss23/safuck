@@ -1,0 +1,5 @@
+A sexy abusive module for unrealircd
+
+Replace the password define with a password you want (because you don't 
+want just anyone using this module!), and compile like normal.
+WARNING: It can crash clients, potentially getting you in trouble
