@@ -1,4 +1,8 @@
-A sexy abusive module for unrealircd
+An abusive module for UnrealIRCD 3
+
+Sends fake messages from the ircd to fool clients into thinking they've 
+joined numerous channels. Doesn't actually do anything server side 
+(apart from send the message).
 
 Replace the password define with a password you want (because you don't 
 want just anyone using this module!), and compile like normal.
